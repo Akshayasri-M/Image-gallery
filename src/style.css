@@ -1,0 +1,22 @@
+*{
+    padding: 20px;
+}
+
+
+
+h3 {
+
+
+  color: black
+}
+
+.image {
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+img:hover {
+  scale: calc(1.2);
+}
